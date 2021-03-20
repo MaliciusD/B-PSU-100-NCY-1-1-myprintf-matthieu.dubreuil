@@ -1,2 +1,3 @@
-# B-PSU-100-NCY-1-1-myprintf-matthieu.dubreuil
-Projet my_printf
+# my_printf
+
+Fonction qui reproduit le comportement de la fonction printf standard
